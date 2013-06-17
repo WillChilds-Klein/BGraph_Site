@@ -1,0 +1,21 @@
+TODO
+
+- refine styling
+- get images working
+- get git rep up and running
+- create examples
+- allow user-defined pareto-payoff functions
+	- upload CSV file with functions
+		- functions represented as sets of points, perform polynomial regression
+	- have some predefined ppf's. 
+		- logarithmic
+		- linear
+		- exponential
+- incorporate examples of:
+	- housing markets
+		- ppf is interest function
+			google some general interest functions.
+	- marriage markets
+		- wait for Ankur's explanation
+- document
+- refactor and comment code.
