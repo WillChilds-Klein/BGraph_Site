@@ -1,9 +1,18 @@
 TODO
 
 - refine styling
-- get images working
-- get git rep up and running
+x get images working
+x get git repo up and running
 - create examples
+x fix mirrored fixed graph. reverse nodes
+	x issue is in rendering...
+		x issue was with x values in painting of BGraph
+- UI refinements
+	- allow manual stepping.
+		- jbuttons to step thru EdgeSetQueue
+		x change pop methods, treat as doubly linked list rather than queue
+			x ended up going with array, and maintaining iterating variable to traverse array.
+- fix Hungarian Generalization
 - allow user-defined pareto-payoff functions
 	- upload CSV file with functions
 		- functions represented as sets of points, perform polynomial regression

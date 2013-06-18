@@ -8,8 +8,9 @@
         <description kind="short">BGraph</description>
         
         
-    </information>
-    <update check="always"/>
+    <offline-allowed/>
+</information>
+    <update check="background"/>
     <security>
 <all-permissions/>
 </security>
